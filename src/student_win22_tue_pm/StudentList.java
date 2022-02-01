@@ -19,6 +19,5 @@ public class StudentList {
               System.out.print("  ");
               System.out.println(studentList[i].getStudentName());
           }
-      }
-    
+      }    
 }
